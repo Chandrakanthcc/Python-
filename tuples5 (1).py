@@ -1,0 +1,6 @@
+a=(90,100,70,-10,20)
+print(len(a),end="$")
+print(max(a),end="$")
+print(min(a),end="$")
+print(sum(a),end="$")
+print(sum(a)//len(a))
